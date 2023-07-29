@@ -1,0 +1,58 @@
+{
+    "image_id": "46",
+    "insurancecompany": "HIGHMARK",
+    "formheader": "ENROLLMENT/WAIVER FORM",
+    "I EMPLOYEE/CONTRACT HOLDER INFORMATION": [
+        {
+            "Effective Date": "05/01/2023",
+            "Employer/Group Name": "STARBUCKS",
+            "Group Number": "47289191",
+            "Payroll Location": "",
+            "First Name": "BARRY",
+            "MI": "C",
+            "Last Name": "WATERS",
+            "Social Security Number": "190-90-3464",
+            "Address": "9750 NW 33RD ST",
+            "City": "CORAL SPRINGS",
+            "State": "AZ",
+            "Zip": "33065-1910",
+            "County": "",
+            "Home/Cell Phone": "765-239-9489",
+            "Marital Status": "Divorced",
+            "Enrollment Status": "Active Employee",
+            "Full-Time Hire (or Rehire) Date": "03/05/2020",
+            "Hours Worked Per Week": "30",
+            "Gender": "Male",
+            "Date of Birth": "03/01/1955",
+            "Age": "68",
+            "Product Selection": "Dental"
+        }
+    ],
+    "SPOUSE/DOMESTIC PARTNER": [
+        {
+            "First Name": "PAOLA",
+            "MI": "N",
+            "Last Name": "WATERS",
+            "Relationship to You": "Domestic Partner",
+            "Social Security Number": "980-51-4189",
+            "Gender": "Female",
+            "Date of Birth": "04/27/1979",
+            "Age": "44",
+            "Product Selection": "Dental"
+        }
+    ],
+    "DEPENDENT CHILD": [
+        {
+            "First Name": "RICHARD",
+            "MI": "S",
+            "Last Name": "WATERS",
+            "Relationship to You": "Step-child",
+            "Social Security Number": "757-78-5749",
+            "Gender": "Male",
+            "Date of Birth": "01/01/2000",
+            "Age": "23",
+            "Product Selection": "Dental",
+            "Dependent Status if Age 26 or Older": ""
+        }
+    ]
+}

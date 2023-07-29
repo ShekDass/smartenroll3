@@ -1,0 +1,58 @@
+{
+    "image_id": "32",
+	"insurancecompany": "HIGHMARK",
+	"formheader": "ENROLLMENT/WAIVER FORM",
+    "I EMPLOYEE/CONTRACT HOLDER INFORMATION": [
+        {
+            "Effective Date": "05/01/2023",
+            "Employer/Group Name": "UNITED HEALTH GROUP",
+            "Group Number": "1245729",
+            "Payroll Location": "0124-2023",
+            "First Name": "ARUN",
+            "MI": "H",
+            "Last Name": "ANTONY",
+            "Social Security Number": "980-51-4189",
+            "Address": "12680 PERRY HWY",
+            "City": "WEXFORD",
+            "State": "AR",
+            "Zip": "15090",
+            "County": " ",
+            "Home/Cell Phone": "765-239-9686",
+            "Marital Status": "Married",
+            "Enrollment Status": "COBRA Continuant",
+            "Full-Time Hire (or Rehire) Date": "10/23/2001",
+            "Hours Worked Per Week": " ",
+            "Gender": "Male",
+            "Date of Birth": "04/23/1976",
+            "Age": "47",
+            "Product Selection": "Medical"
+        }
+    ],
+    "SPOUSE/DOMESTIC PARTNER": [
+        {
+            "First Name": "DOROTHY",
+            "MI": "",
+            "Last Name": "ANTONY",
+            "Relationship to You": "Spouse",
+            "Social Security Number": "879-07-1461",
+            "Gender": "Female",
+            "Date of Birth": "11/26/1970",
+            "Age": "53",
+            "Product Selection": "Medical"
+        }
+    ],
+    "DEPENDENT CHILD": [
+        {
+            "First Name": "HENRIETTA",
+            "MI": "",
+            "Last Name": "ANTONY",
+            "Relationship to You": "Child",
+            "Social Security Number": "980-51-4189",
+            "Gender": "Female",
+            "Date of Birth": "10/13/1996",
+            "Age": "27",
+            "Product Selection": "Medical",
+            "Dependent Status if Age 26 or Older": ""
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "image_id": "15",
+	"insurancecompany": "HIGHMARK",
+	"formheader": "ENROLLMENT/WAIVER FORM",
+    "I EMPLOYEE/CONTRACT HOLDER INFORMATION": [
+        {
+            "Effective Date": "05/01/2023",
+            "Employer/Group Name": "TARGET",
+            "Group Number": "48208181",
+            "Payroll Location": " ",
+            "First Name": "JONATHAN",
+            "MI": "G",
+            "Last Name": "ROTHBERG",
+            "Social Security Number": "190-90-3464",
+            "Address": "101 MAIN ST",
+            "City": "MEDFORD",
+            "State": "OK",
+            "Zip": "2155",
+            "County": " ",
+            "Home/Cell Phone": "765-239-9669",
+            "Marital Status": "Divorced",
+            "Enrollment Status": "Active Employee",
+            "Full-Time Hire (or Rehire) Date": "07/07/2020",
+            "Hours Worked Per Week": " ",
+            "Gender": "Male",
+            "Date of Birth": "12/14/1970",
+            "Age": "53",
+            "Product Selection": "Medical"
+        }
+    ],
+    "SPOUSE/DOMESTIC PARTNER": [
+        {
+            "First Name": "SANAM",
+            "MI": "E",
+            "Last Name": "ROTHBERG",
+            "Relationship to You": "Spouse",
+            "Social Security Number": "214-91-3731",
+            "Gender": "Female",
+            "Date of Birth": "04/14/1983",
+            "Age": "40",
+            "Product Selection": "Medical"
+        }
+    ],
+    "DEPENDENT CHILD": [
+        {
+            "First Name": "",
+            "MI": "",
+            "Last Name": "",
+            "Relationship to You": "",
+            "Social Security Number": "",
+            "Gender": "",
+            "Date of Birth": "",
+            "Age": "",
+            "Product Selection": "",
+            "Dependent Status if Age 26 or Older": ""
+        }
+    ]
+}

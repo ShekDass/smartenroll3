@@ -1,0 +1,59 @@
+{ 
+	"image_id": "24",
+	"insurancecompany": "HIGHMARK",
+	"formheader": "ENROLLMENT/WAIVER FORM",
+    "I EMPLOYEE/CONTRACT HOLDER INFORMATION": [
+		{
+			"Effective Date": "06/01/2023",
+			"Employer/Group Name": "UNITED PARCEL SERVICE",
+			"Group Number": "17381991",
+			"Payroll Location": " ",
+			"First Name": "ARNOLD",
+			"MI": " ",
+			"Last Name": "PASSALACQUA",
+			"Social Security Number": "114-91-3731",
+			"Address": "535 PARK AVE E",
+			"City": "PRINCETON",
+			"State": "VT",
+			"Zip": "61356",
+			"County": " ",
+			"Home/Cell Phone": "765-239-9678",
+			"Marital Status": "Divorced",
+			"Enrollment Status": "Rehired Employee",
+			"Full-Time Hire (or Rehire) Date": "10/23/2001",
+			"Hours Worked Per Week": "40",
+			"Gender": "Male",
+			"Date of Birth": "05/16/1956",
+			"Age": "67",
+			"Product Selection": "Vision"
+		}
+	],
+	"SPOUSE/DOMESTIC PARTNER": [
+		{
+		"First Name": " ",
+		"MI": " ",
+		"Last Name": " ",
+		"Relationship to You": " ",
+		"Social Security Number": " ",
+		"Gender": " ",
+		"Date of Birth": " ",
+		"Age": " ",
+		"Product Selection": " "
+		}
+	],
+		"DEPENDENT CHILD": [
+		{
+			"First Name": "TERESA",
+			"MI": " ",
+			"Last Name": "PASSALACQUA",
+			"Relationship to You": "Child",
+			"Social Security Number": "114-91-3737",
+			"Gender": "Female",
+			"Date of Birth": "09/18/2000",
+			"Age": "23",
+			"Product Selection": "Vision",
+			"Dependent Status if Age 26 or Older": " "
+		}
+	]
+}
+

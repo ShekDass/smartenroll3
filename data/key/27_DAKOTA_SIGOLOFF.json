@@ -1,0 +1,58 @@
+{
+    "image_id": "27",
+	"insurancecompany": "HIGHMARK",
+	"formheader": "ENROLLMENT/WAIVER FORM",
+    "I EMPLOYEE/CONTRACT HOLDER INFORMATION": [
+        {
+            "Effective Date": "06/04/2023",
+            "Employer/Group Name": "FEDEX",
+            "Group Number": "32492082",
+            "Payroll Location": " ",
+            "First Name": "DAKOTA",
+            "MI": "C",
+            "Last Name": "SIGOLOFF",
+            "Social Security Number": "214-91-3731",
+            "Address": "4290 S SILVA DR",
+            "City": "SIERRA VISTA",
+            "State": "WV",
+            "Zip": "85650",
+            "County": " ",
+            "Home/Cell Phone": "765-239-9681",
+            "Marital Status": "Divorced",
+            "Enrollment Status": "Active Employee",
+            "Full-Time Hire (or Rehire) Date": "08/03/2018",
+            "Hours Worked Per Week": "40",
+            "Gender": "Female",
+            "Date of Birth": "10/28/1989",
+            "Age": "34",
+            "Product Selection": "Medical"
+        }
+    ],
+    "SPOUSE/DOMESTIC PARTNER": [
+        {
+            "First Name": "",
+            "MI": "",
+            "Last Name": "",
+            "Relationship to You": "",
+            "Social Security Number": "",
+            "Gender": "",
+            "Date of Birth": "",
+            "Age": "",
+            "Product Selection": ""
+        }
+    ],
+    "DEPENDENT CHILD": [
+        {
+            "First Name": "BRAIN",
+            "MI": "",
+            "Last Name": "SIGOLOFF",
+            "Relationship to You": "Child",
+            "Social Security Number": "214-91-3737",
+            "Gender": "Male",
+            "Date of Birth": "06/23/2018",
+            "Age": "5",
+            "Product Selection": "Medical",
+            "Dependent Status if Age 26 or Older": ""
+        }
+    ]
+}

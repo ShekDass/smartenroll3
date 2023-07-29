@@ -1,0 +1,58 @@
+{
+    "image_id": "53",
+    "insurancecompany": "HIGHMARK",
+    "formheader": "ENROLLMENT/WAIVER FORM",
+    "I EMPLOYEE/CONTRACT HOLDER INFORMATION": [
+        {
+            "Effective Date": "05/01/2023",
+            "Employer/Group Name": "UK NATIONAL HEALTH SERVICE",
+            "Group Number": "16183919",
+            "Payroll Location": " ",
+            "First Name": "MASOOM",
+            "MI": "J",
+            "Last Name": "AHMED",
+            "Social Security Number": "980-51-4189",
+            "Address": "11700 MERCY BLVD",
+            "City": "SAVANNAH",
+            "State": "GA",
+            "Zip": "31302-1928",
+            "County": " ",
+            "Home/Cell Phone": "765-239-9496",
+            "Marital Status": "Single/Widowed",
+            "Enrollment Status": "HIPAA Life Event",
+            "Full-Time Hire (or Rehire) Date": "05/09/2012",
+            "Hours Worked Per Week": " ",
+            "Gender": "Female",
+            "Date of Birth": "01/06/1987",
+            "Age": "36",
+            "Product Selection": "Dental"
+        }
+    ],
+    "SPOUSE/DOMESTIC PARTNER": [
+        {
+            "First Name": "",
+            "MI": "",
+            "Last Name": "",
+            "Relationship to You": "",
+            "Social Security Number": "",
+            "Gender": "",
+            "Date of Birth": "",
+            "Age": "",
+            "Product Selection": ""
+        }
+    ],
+    "DEPENDENT CHILD": [
+        {
+            "First Name": "",
+            "MI": "",
+            "Last Name": "",
+            "Relationship to You": "",
+            "Social Security Number": "",
+            "Gender": "",
+            "Date of Birth": "",
+            "Age": "",
+            "Product Selection": "",
+            "Dependent Status if Age 26 or Older": ""
+        }
+    ]
+}

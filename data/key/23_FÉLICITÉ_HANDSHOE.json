@@ -1,0 +1,58 @@
+{
+    "image_id": "23",
+	"insurancecompany": "HIGHMARK",
+	"formheader": "ENROLLMENT/WAIVER FORM",
+    "I EMPLOYEE/CONTRACT HOLDER INFORMATION": [
+        {
+            "Effective Date": "06/01/2023",
+            "Employer/Group Name": "STARBUCKS",
+            "Group Number": "47289191",
+            "Payroll Location": "",
+            "First Name": "F\u00c9LICIT\u00c9",
+            "MI": " ",
+            "Last Name": "HANDSHOE",
+            "Social Security Number": "757-78-5749",
+            "Address": "4915 NORTON HEALTHCARE BLVD",
+            "City": "LOUISVILLE",
+            "State": "UT",
+            "Zip": "40241",
+            "County": " ",
+            "Home/Cell Phone": "765-239-9677",
+            "Marital Status": "Married",
+            "Enrollment Status": "Active Employee",
+            "Full-Time Hire (or Rehire) Date": "03/15/2020",
+            "Hours Worked Per Week": "60",
+            "Gender": "Female",
+            "Date of Birth": "09/19/1987",
+            "Age": "36",
+            "Product Selection": "Medical"
+        }
+    ],
+    "SPOUSE/DOMESTIC PARTNER": [
+        {
+            "First Name": "",
+            "MI": "",
+            "Last Name": "",
+            "Relationship to You": "",
+            "Social Security Number": "",
+            "Gender": "",
+            "Date of Birth": "",
+            "Age": "",
+            "Product Selection": ""
+        }
+    ],
+    "DEPENDENT CHILD": [
+        {
+            "First Name": "",
+            "MI": "",
+            "Last Name": "",
+            "Relationship to You": "",
+            "Social Security Number": "",
+            "Gender": "",
+            "Date of Birth": "",
+            "Age": "",
+            "Product Selection": "",
+            "Dependent Status if Age 26 or Older": ""
+        }
+    ]
+}

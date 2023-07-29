@@ -1,0 +1,58 @@
+{
+    "image_id": "69",
+    "insurancecompany": "HIGHMARK",
+    "formheader": "ENROLLMENT/WAIVER FORM",
+    "I EMPLOYEE/CONTRACT HOLDER INFORMATION": [
+        {
+            "Effective Date": "05/01/2023",
+            "Employer/Group Name": "STARBUCKS",
+            "Group Number": "47289191",
+            "Payroll Location": " ",
+            "First Name": "LAURENT",
+            "MI": "Z",
+            "Last Name": "ANCTIL",
+            "Social Security Number": "214-91-3731",
+            "Address": "450 VALLEY ST",
+            "City": "MANCHESTER",
+            "State": "MT",
+            "Zip": "03103",
+            "County": " ",
+            "Home/Cell Phone": "765-239-9512",
+            "Marital Status": "Married",
+            "Enrollment Status": "HIPAA Life Event",
+            "Full-Time Hire (or Rehire) Date": "02/05/2013",
+            "Hours Worked Per Week": "40",
+            "Gender": "Male",
+            "Date of Birth": "04/22/1978",
+            "Age": "45",
+            "Product Selection": "Medical"
+        }
+    ],
+    "SPOUSE/DOMESTIC PARTNER": [
+        {
+            "First Name": "JUNE",
+            "MI": "",
+            "Last Name": "ANCTIL",
+            "Relationship to You": "Spouse",
+            "Social Security Number": "190-90-3464",
+            "Gender": "Female",
+            "Date of Birth": "08/18/1979",
+            "Age": "44",
+            "Product Selection": "Medical"
+        }
+    ],
+    "DEPENDENT CHILD": [
+        {
+            "First Name": "MARIA",
+            "MI": "",
+            "Last Name": "ANCTIL",
+            "Relationship to You": "Child",
+            "Social Security Number": "775-78-5749",
+            "Gender": "Female",
+            "Date of Birth": "01/01/1997",
+            "Age": "26",
+            "Product Selection": "Medical",
+            "Dependent Status if Age 26 or Older": ""
+        }
+    ]
+}

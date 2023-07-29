@@ -1,0 +1,58 @@
+{
+    "image_id": "47",
+    "insurancecompany": "HIGHMARK",
+    "formheader": "ENROLLMENT/WAIVER FORM",
+    "I EMPLOYEE/CONTRACT HOLDER INFORMATION": [
+        {
+            "Effective Date": "05/01/2023",
+            "Employer/Group Name": "UNITED PARCEL SERVICE",
+            "Group Number": "17381991",
+            "Payroll Location": " ",
+            "First Name": "VINAYA",
+            "MI": "D",
+            "Last Name": "PURI",
+            "Social Security Number": "775-78-5749",
+            "Address": "401 E CHESTNUT ST",
+            "City": "LOUISVILLE",
+            "State": "AR",
+            "Zip": "40202",
+            "County": " ",
+            "Home/Cell Phone": "765-239-9490",
+            "Marital Status": "Single/Widowed",
+            "Enrollment Status": "Rehired Employee",
+            "Full-Time Hire (or Rehire) Date": "08/31/2010",
+            "Hours Worked Per Week": "40",
+            "Gender": "Female",
+            "Date of Birth": "07/06/1964",
+            "Age": "59",
+            "Product Selection": "Medical"
+        }
+    ],
+    "SPOUSE/DOMESTIC PARTNER": [
+        {
+            "First Name": "",
+            "MI": "",
+            "Last Name": "",
+            "Relationship to You": "",
+            "Social Security Number": "",
+            "Gender": "",
+            "Date of Birth": "",
+            "Age": "",
+            "Product Selection": ""
+        }
+    ],
+    "DEPENDENT CHILD": [
+        {
+            "First Name": "",
+            "MI": "",
+            "Last Name": "",
+            "Relationship to You": "",
+            "Social Security Number": "",
+            "Gender": "",
+            "Date of Birth": "",
+            "Age": "",
+            "Product Selection": "",
+            "Dependent Status if Age 26 or Older": ""
+        }
+    ]
+}

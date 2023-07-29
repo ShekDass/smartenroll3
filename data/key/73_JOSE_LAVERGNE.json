@@ -1,0 +1,58 @@
+{
+    "image_id": "73",
+    "insurancecompany": "HIGHMARK",
+    "formheader": "ENROLLMENT/WAIVER FORM",
+    "I EMPLOYEE/CONTRACT HOLDER INFORMATION": [
+        {
+            "Effective Date": "05/01/2023",
+            "Employer/Group Name": "FEDEX",
+            "Group Number": "32492082",
+            "Payroll Location": " ",
+            "First Name": "JOSE",
+            "MI": "D",
+            "Last Name": "LAVERGNE",
+            "Social Security Number": "879-07-1461",
+            "Address": "16855 NE 2ND AVE",
+            "City": "NORTH MIAMI BEACH",
+            "State": "NJ",
+            "Zip": "33162",
+            "County": " ",
+            "Home/Cell Phone": "765-239-5916",
+            "Marital Status": "Divorced",
+            "Enrollment Status": "Active Employee",
+            "Full-Time Hire (or Rehire) Date": "01/17/2018",
+            "Hours Worked Per Week": "40",
+            "Gender": "Male",
+            "Date of Birth": "11/11/1964",
+            "Age": "59",
+            "Product Selection": "Dental"
+        }
+    ],
+    "SPOUSE/DOMESTIC PARTNER": [
+        {
+            "First Name": "M LISA",
+            "MI": "",
+            "Last Name": "LAVERGNE",
+            "Relationship to You": "Spouse",
+            "Social Security Number": "840-13-1844",
+            "Gender": "Female",
+            "Date of Birth": "01/01/1970",
+            "Age": "53",
+            "Product Selection": "Dental"
+        }
+    ],
+    "DEPENDENT CHILD": [
+        {
+            "First Name": "DIETER",
+            "MI": "",
+            "Last Name": "LAVERGNE",
+            "Relationship to You": "",
+            "Social Security Number": "457-30-6881",
+            "Gender": "Male",
+            "Date of Birth": "01/01/1998",
+            "Age": "25",
+            "Product Selection": "Dental",
+            "Dependent Status if Age 26 or Older": ""
+        }
+    ]
+}

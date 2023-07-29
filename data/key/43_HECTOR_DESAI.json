@@ -1,0 +1,58 @@
+{
+    "image_id": "43",
+	"insurancecompany": "HIGHMARK",
+	"formheader": "ENROLLMENT/WAIVER FORM",
+    "I EMPLOYEE/CONTRACT HOLDER INFORMATION": [
+        {
+            "Effective Date": "06/09/2023",
+            "Employer/Group Name": "UNITED HEALTH GROUP",
+            "Group Number": "1245729",
+            "Payroll Location": "0124-2023",
+            "First Name": "HECTOR",
+            "MI": " ",
+            "Last Name": "DESAI",
+            "Social Security Number": "879-07-1461",
+            "Address": "1701 LEGACY DR",
+            "City": "FRISCO",
+            "State": "CA",
+            "Zip": "75034",
+            "County": " ",
+            "Home/Cell Phone": "765-239-9785",
+            "Marital Status": "Single/Widowed",
+            "Enrollment Status": "HIPAA Life Event",
+            "Full-Time Hire (or Rehire) Date": "10/03/2010",
+            "Hours Worked Per Week": " ",
+            "Gender": "Male",
+            "Date of Birth": "07/21/1966",
+            "Age": "57",
+            "Product Selection": "Medical"
+        }
+    ],
+    "SPOUSE/DOMESTIC PARTNER": [
+        {
+            "First Name": "",
+            "MI": "",
+            "Last Name": "",
+            "Relationship to You": "",
+            "Social Security Number": "",
+            "Gender": "",
+            "Date of Birth": "",
+            "Age": "",
+            "Product Selection": ""
+        }
+    ],
+    "DEPENDENT CHILD": [
+        {
+            "First Name": "",
+            "MI": "",
+            "Last Name": "",
+            "Relationship to You": "",
+            "Social Security Number": "",
+            "Gender": "",
+            "Date of Birth": "",
+            "Age": "",
+            "Product Selection": "",
+            "Dependent Status if Age 26 or Older": ""
+        }
+    ]
+}

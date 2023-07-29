@@ -1,0 +1,58 @@
+{
+    "image_id": "71",
+    "insurancecompany": "HIGHMARK",
+    "formheader": "ENROLLMENT/WAIVER FORM",
+    "I EMPLOYEE/CONTRACT HOLDER INFORMATION": [
+        {
+            "Effective Date": "05/01/2023",
+            "Employer/Group Name": "KROGE",
+            "Group Number": "28208182",
+            "Payroll Location": " ",
+            "First Name": "HELEN",
+            "MI": "B",
+            "Last Name": "PRIMA",
+            "Social Security Number": "840-13-1844",
+            "Address": "2141 ROUTE 88",
+            "City": "BRICK",
+            "State": "NV",
+            "Zip": "08724",
+            "County": " ",
+            "Home/Cell Phone": "765-239-9514",
+            "Marital Status": "Single/Widowed",
+            "Enrollment Status": "Rehired Employee",
+            "Full-Time Hire (or Rehire) Date": "04/13/2008",
+            "Hours Worked Per Week": " ",
+            "Gender": "Female",
+            "Date of Birth": "01/01/1960",
+            "Age": "63",
+            "Product Selection": "Medical"
+        }
+    ],
+    "SPOUSE/DOMESTIC PARTNER": [
+        {
+            "First Name": "",
+            "MI": "",
+            "Last Name": "",
+            "Relationship to You": "",
+            "Social Security Number": "",
+            "Gender": "",
+            "Date of Birth": "",
+            "Age": "",
+            "Product Selection": ""
+        }
+    ],
+    "DEPENDENT CHILD": [
+        {
+            "First Name": "",
+            "MI": "",
+            "Last Name": "PRIMA",
+            "Relationship to You": "",
+            "Social Security Number": "",
+            "Gender": "",
+            "Date of Birth": "",
+            "Age": "",
+            "Product Selection": "",
+            "Dependent Status if Age 26 or Older": ""
+        }
+    ]
+}

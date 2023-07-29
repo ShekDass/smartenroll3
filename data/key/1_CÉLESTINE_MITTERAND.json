@@ -1,0 +1,58 @@
+{
+    "image_id": "1",
+	"insurancecompany": "HIGHMARK",
+	"formheader": "ENROLLMENT/WAIVER FORM",
+    "I EMPLOYEE/CONTRACT HOLDER INFORMATION": [
+        {
+            "Effective Date": "05/01/2023",
+            "Employer/Group Name": "STARBUCKS",
+            "Group Number": "47289191",
+            "Payroll Location": "",
+            "First Name": "C\u00c9LESTINE",
+            "MI": "A",
+            "Last Name": "MITTERAND",
+            "Social Security Number": "879-07-1461",
+            "Address": "1111 HIGHWAY 6",
+            "City": "SUGAR LAND",
+            "State": "MI",
+            "Zip": "77478",
+            "County": "",
+            "Home/Cell Phone": "765-239-9655",
+            "Marital Status": "Single/Widowed",
+            "Enrollment Status": "Active Employee",
+            "Full-Time Hire (or Rehire) Date": "02/06/2007",
+            "Hours Worked Per Week": "40",
+            "Gender": "Female",
+            "Date of Birth": "01/11/1975",
+            "Age": "48",
+            "Product Selection": "Medical"
+        }
+    ],
+    "SPOUSE/DOMESTIC PARTNER": [
+        {
+            "First Name": "",
+            "MI": "",
+            "Last Name": "",
+            "Relationship to You": "",
+            "Social Security Number": "",
+            "Gender": "",
+            "Date of Birth": "",
+            "Age": "",
+            "Product Selection": ""
+        }
+    ],
+    "DEPENDENT CHILD": [
+        {
+            "First Name": "AMY",
+            "MI": "",
+            "Last Name": "MITTERAND",
+            "Relationship to You": "Child",
+            "Social Security Number": "757-78-5749",
+            "Gender": "Female",
+            "Date of Birth": "01/01/1996",
+            "Age": "27",
+            "Product Selection": "Medical",
+            "Dependent Status if Age 26 or Older": ""
+        }
+    ]
+}

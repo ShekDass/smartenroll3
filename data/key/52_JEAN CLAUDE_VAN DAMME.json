@@ -1,0 +1,58 @@
+{
+    "image_id": "52",
+    "insurancecompany": "HIGHMARK",
+    "formheader": "ENROLLMENT/WAIVER FORM",
+    "I EMPLOYEE/CONTRACT HOLDER INFORMATION": [
+        {
+            "Effective Date": "05/01/2023",
+            "Employer/Group Name": "WALMART",
+            "Group Number": "28108199",
+            "Payroll Location": "2810-2023",
+            "First Name": "JEAN CLAUDE",
+            "MI": "I",
+            "Last Name": "VAN DAMME",
+            "Social Security Number": "879-07-1461",
+            "Address": "101 HOLLYWOOD BLVD",
+            "City": "BEVERLY HILLS",
+            "State": "CA",
+            "Zip": "90209",
+            "County": " ",
+            "Home/Cell Phone": "765-239-9495",
+            "Marital Status": "Divorced",
+            "Enrollment Status": "Active Employee",
+            "Full-Time Hire (or Rehire) Date": "09/04/2017",
+            "Hours Worked Per Week": "40",
+            "Gender": "Male",
+            "Date of Birth": "11/17/1980",
+            "Age": "43",
+            "Product Selection": "Medical"
+        }
+    ],
+    "SPOUSE/DOMESTIC PARTNER": [
+        {
+            "First Name": "TAMAR",
+            "MI": "J",
+            "Last Name": "VAN DAMME",
+            "Relationship to You": "Spouse",
+            "Social Security Number": "990-90-3464",
+            "Gender": "Female",
+            "Date of Birth": "07/17/1983",
+            "Age": "40",
+            "Product Selection": "Medical"
+        }
+    ],
+    "DEPENDENT CHILD": [
+        {
+            "First Name": "JANE",
+            "MI": "R",
+            "Last Name": "VAN DAMME",
+            "Relationship to You": "Adopted",
+            "Social Security Number": "840-13-1844",
+            "Gender": "Female",
+            "Date of Birth": "09/02/2013",
+            "Age": "10",
+            "Product Selection": "Medical",
+            "Dependent Status if Age 26 or Older": ""
+        }
+    ]
+}

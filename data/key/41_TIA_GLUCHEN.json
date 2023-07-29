@@ -1,0 +1,58 @@
+{
+    "image_id": "41",
+	"insurancecompany": "HIGHMARK",
+	"formheader": "ENROLLMENT/WAIVER FORM",
+    "I EMPLOYEE/CONTRACT HOLDER INFORMATION": [
+        {
+            "Effective Date": "06/05/2023",
+            "Employer/Group Name": "UK NATIONAL HEALTH SERVICE",
+            "Group Number": "16183919",
+            "Payroll Location": " ",
+            "First Name": "TIA",
+            "MI": "A",
+            "Last Name": "GLUCHEN",
+            "Social Security Number": "879-07-1461",
+            "Address": "1113 NW 197TH ST",
+            "City": "EDMOND",
+            "State": "IL",
+            "Zip": "73012",
+            "County": " ",
+            "Home/Cell Phone": "765-239-9695",
+            "Marital Status": "Married",
+            "Enrollment Status": "Active Employee",
+            "Full-Time Hire (or Rehire) Date": "11/12/2022",
+            "Hours Worked Per Week": " ",
+            "Gender": "Female",
+            "Date of Birth": "11/13/1963",
+            "Age": "60",
+            "Product Selection": "Medical"
+        }
+    ],
+    "SPOUSE/DOMESTIC PARTNER": [
+        {
+            "First Name": "KENT",
+            "MI": "E",
+            "Last Name": "GLUCHEN",
+            "Relationship to You": "Spouse",
+            "Social Security Number": "457-30-6881",
+            "Gender": "Male",
+            "Date of Birth": "12/17/1962",
+            "Age": "61",
+            "Product Selection": "Medical"
+        }
+    ],
+    "DEPENDENT CHILD": [
+        {
+            "First Name": "JOHN",
+            "MI": "G",
+            "Last Name": "GLUCHEN",
+            "Relationship to You": "Step-child",
+            "Social Security Number": "879-07-1465",
+            "Gender": "Male",
+            "Date of Birth": "06/23/2005",
+            "Age": "18",
+            "Product Selection": "Medical",
+            "Dependent Status if Age 26 or Older": ""
+        }
+    ]
+}

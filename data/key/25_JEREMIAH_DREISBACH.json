@@ -1,0 +1,58 @@
+{
+    "image_id": "25",
+	"insurancecompany": "HIGHMARK",
+	"formheader": "ENROLLMENT/WAIVER FORM",
+    "I EMPLOYEE/CONTRACT HOLDER INFORMATION": [
+        {
+            "Effective Date": "06/01/2023",
+            "Employer/Group Name": "KROGE",
+            "Group Number": "28208182",
+            "Payroll Location": " ",
+            "First Name": "JEREMIAH",
+            "MI": " ",
+            "Last Name": "DREISBACH",
+            "Social Security Number": "190-90-3464",
+            "Address": "47647 CALEO BAY DR",
+            "City": "LA QUINTA",
+            "State": "VA",
+            "Zip": "92253",
+            "County": " ",
+            "Home/Cell Phone": "765-239-9679",
+            "Marital Status": "Single/Widowed",
+            "Enrollment Status": "Active Employee",
+            "Full-Time Hire (or Rehire) Date": "12/12/2016",
+            "Hours Worked Per Week": " ",
+            "Gender": "Male",
+            "Date of Birth": "01/18/1981",
+            "Age": "42",
+            "Product Selection": "Dental"
+        }
+    ],
+    "SPOUSE/DOMESTIC PARTNER": [
+        {
+            "First Name": "",
+            "MI": "",
+            "Last Name": "",
+            "Relationship to You": "",
+            "Social Security Number": "",
+            "Gender": "",
+            "Date of Birth": "",
+            "Age": "",
+            "Product Selection": ""
+        }
+    ],
+    "DEPENDENT CHILD": [
+        {
+            "First Name": "NEIL",
+            "MI": "S",
+            "Last Name": "DREISBACH",
+            "Relationship to You": "Child",
+            "Social Security Number": "190-90-3462",
+            "Gender": "Male",
+            "Date of Birth": "05/27/1999",
+            "Age": "24",
+            "Product Selection": "Dental",
+            "Dependent Status if Age 26 or Older": ""
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "image_id": "49",
+    "insurancecompany": "HIGHMARK",
+    "formheader": "ENROLLMENT/WAIVER FORM",
+    "I EMPLOYEE/CONTRACT HOLDER INFORMATION": [
+        {
+            "Effective Date": "05/01/2023",
+            "Employer/Group Name": "TARGET",
+            "Group Number": "48208181",
+            "Payroll Location": " ",
+            "First Name": "GREGORY",
+            "MI": "F",
+            "Last Name": "MONROE",
+            "Social Security Number": "990-90-3464",
+            "Address": "47051 ELMSMERE DR",
+            "City": "NORTHVILLE",
+            "State": "CO",
+            "Zip": "48167",
+            "County": " ",
+            "Home/Cell Phone": "765-239-9492",
+            "Marital Status": "Divorced",
+            "Enrollment Status": "Active Employee",
+            "Full-Time Hire (or Rehire) Date": "01/02/2018",
+            "Hours Worked Per Week": "45",
+            "Gender": "Male",
+            "Date of Birth": "04/25/1957",
+            "Age": "66",
+            "Product Selection": "Dental"
+        }
+    ],
+    "SPOUSE/DOMESTIC PARTNER": [
+        {
+            "First Name": "JEANNE",
+            "MI": "F",
+            "Last Name": "MONROE",
+            "Relationship to You": "Spouse",
+            "Social Security Number": "190-90-3464",
+            "Gender": "Female",
+            "Date of Birth": "06/11/1962",
+            "Age": "61",
+            "Product Selection": "Dental"
+        }
+    ],
+    "DEPENDENT CHILD": [
+        {
+            "First Name": "BARRY",
+            "MI": "G",
+            "Last Name": "MONROE",
+            "Relationship to You": "Child",
+            "Social Security Number": "775-78-5749",
+            "Gender": "Male",
+            "Date of Birth": "05/23/1998",
+            "Age": "25",
+            "Product Selection": "Dental",
+            "Dependent Status if Age 26 or Older": ""
+        }
+    ]
+}

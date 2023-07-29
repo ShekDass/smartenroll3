@@ -1,0 +1,58 @@
+{
+    "image_id": "57",
+    "insurancecompany": "HIGHMARK",
+    "formheader": "ENROLLMENT/WAIVER FORM",
+    "I EMPLOYEE/CONTRACT HOLDER INFORMATION": [
+        {
+            "Effective Date": "05/01/2023",
+            "Employer/Group Name": "UNITED HEALTH GROUP",
+            "Group Number": "1245729",
+            "Payroll Location": "0124-2023",
+            "First Name": "NICHOLAS",
+            "MI": "N",
+            "Last Name": "FRECKER",
+            "Social Security Number": "190-90-3464",
+            "Address": "5251 HARTSHIRE WEST DR",
+            "City": "BARGERSVILLE",
+            "State": "IN",
+            "Zip": "46106",
+            "County": "",
+            "Home/Cell Phone": "765-239-9500",
+            "Marital Status": "Married",
+            "Enrollment Status": "Active Employee",
+            "Full-Time Hire (or Rehire) Date": "02/26/2018",
+            "Hours Worked Per Week": " ",
+            "Gender": "Male",
+            "Date of Birth": "02/08/1988",
+            "Age": "35",
+            "Product Selection": "Dental"
+        }
+    ],
+    "SPOUSE/DOMESTIC PARTNER": [
+        {
+            "First Name": "AUDREY",
+            "MI": "J",
+            "Last Name": "FRECKER",
+            "Relationship to You": "Spouse",
+            "Social Security Number": "757-78-5749",
+            "Gender": "Female",
+            "Date of Birth": "06/10/1990",
+            "Age": "33",
+            "Product Selection": "Dental"
+        }
+    ],
+    "DEPENDENT CHILD": [
+        {
+            "First Name": "HERCULES",
+            "MI": "G",
+            "Last Name": "FRECKER",
+            "Relationship to You": "Child",
+            "Social Security Number": "114-91-3731",
+            "Gender": "Male",
+            "Date of Birth": "01/01/2015",
+            "Age": "8",
+            "Product Selection": "Dental",
+            "Dependent Status if Age 26 or Older": ""
+        }
+    ]
+}

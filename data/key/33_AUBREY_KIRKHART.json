@@ -1,0 +1,58 @@
+{
+    "image_id": "33",
+	"insurancecompany": "HIGHMARK",
+	"formheader": "ENROLLMENT/WAIVER FORM",
+    "I EMPLOYEE/CONTRACT HOLDER INFORMATION": [
+        {
+            "Effective Date": "06/01/2023",
+            "Employer/Group Name": "BERKSHIRE HATHAWAY",
+            "Group Number": "37297192",
+            "Payroll Location": "3729-2023",
+            "First Name": "AUBREY",
+            "MI": "A",
+            "Last Name": "KIRKHART",
+            "Social Security Number": "757-78-5749",
+            "Address": "23861 PARK BELMONTE",
+            "City": "CALABASAS",
+            "State": "CA",
+            "Zip": "91302",
+            "County": " ",
+            "Home/Cell Phone": "765-239-9687",
+            "Marital Status": "Divorced",
+            "Enrollment Status": "Active Employee",
+            "Full-Time Hire (or Rehire) Date": "09/23/2014",
+            "Hours Worked Per Week": "30",
+            "Gender": "Female",
+            "Date of Birth": "05/26/1961",
+            "Age": "62",
+            "Product Selection": "Dental"
+        }
+    ],
+    "SPOUSE/DOMESTIC PARTNER": [
+        {
+            "First Name": "",
+            "MI": "",
+            "Last Name": "",
+            "Relationship to You": "",
+            "Social Security Number": "",
+            "Gender": "",
+            "Date of Birth": "",
+            "Age": "",
+            "Product Selection": ""
+        }
+    ],
+    "DEPENDENT CHILD": [
+        {
+            "First Name": "ROBERT",
+            "MI": "",
+            "Last Name": "KIRKHART",
+            "Relationship to You": "Child",
+            "Social Security Number": "757-78-5745",
+            "Gender": "Male",
+            "Date of Birth": "12/18/1991",
+            "Age": "32",
+            "Product Selection": "Dental",
+            "Dependent Status if Age 26 or Older": ""
+        }
+    ]
+}

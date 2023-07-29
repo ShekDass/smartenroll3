@@ -1,0 +1,58 @@
+{
+    "image_id": "83",
+    "insurancecompany": "HIGHMARK",
+    "formheader": "ENROLLMENT/WAIVER FORM",
+    "I EMPLOYEE/CONTRACT HOLDER INFORMATION": [
+        {
+            "Effective Date": "05/01/2023",
+            "Employer/Group Name": "TARGET",
+            "Group Number": "48208181",
+            "Payroll Location": " ",
+            "First Name": "NICOLE",
+            "MI": "N",
+            "Last Name": "WILCOX",
+            "Social Security Number": "879-07-1461",
+            "Address": "8701 WATERTOWN PLANK RD",
+            "City": "MILWAUKEE",
+            "State": "WI",
+            "Zip": "50321",
+            "County": " ",
+            "Home/Cell Phone": "765-239-9526",
+            "Marital Status": "Single/Widowed",
+            "Enrollment Status": "Active Employee",
+            "Full-Time Hire (or Rehire) Date": "12/23/2004",
+            "Hours Worked Per Week": " ",
+            "Gender": "Female",
+            "Date of Birth": "01/01/1989",
+            "Age": "34",
+            "Product Selection": "Medical"
+        }
+    ],
+    "SPOUSE/DOMESTIC PARTNER": [
+        {
+            "First Name": "",
+            "MI": "",
+            "Last Name": "",
+            "Relationship to You": "",
+            "Social Security Number": "",
+            "Gender": "",
+            "Date of Birth": "",
+            "Age": "",
+            "Product Selection": ""
+        }
+    ],
+    "DEPENDENT CHILD": [
+        {
+            "First Name": "",
+            "MI": "",
+            "Last Name": "",
+            "Relationship to You": "",
+            "Social Security Number": "",
+            "Gender": "",
+            "Date of Birth": "",
+            "Age": "",
+            "Product Selection": "",
+            "Dependent Status if Age 26 or Older": ""
+        }
+    ]
+}

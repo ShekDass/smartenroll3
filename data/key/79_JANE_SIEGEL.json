@@ -1,0 +1,58 @@
+{
+    "image_id": "79",
+    "insurancecompany": "HIGHMARK",
+    "formheader": "ENROLLMENT/WAIVER FORM",
+    "I EMPLOYEE/CONTRACT HOLDER INFORMATION": [
+        {
+            "Effective Date": "05/01/2023",
+            "Employer/Group Name": "BERKSHIRE HATHAWAY",
+            "Group Number": "37297192",
+            "Payroll Location": "3729-2023",
+            "First Name": "JANE",
+            "MI": "J",
+            "Last Name": "SIEGEL",
+            "Social Security Number": "214-91-3731",
+            "Address": "786 SE HIDDEN RIVER DR",
+            "City": "PORT SAINT LUCY",
+            "State": "OK",
+            "Zip": "34983",
+            "County": " ",
+            "Home/Cell Phone": "765-239-9522",
+            "Marital Status": "Divorced",
+            "Enrollment Status": "Active Employee",
+            "Full-Time Hire (or Rehire) Date": "07/19/1995",
+            "Hours Worked Per Week": "45",
+            "Gender": "Female",
+            "Date of Birth": "12/18/1948",
+            "Age": "75",
+            "Product Selection": "Vision"
+        }
+    ],
+    "SPOUSE/DOMESTIC PARTNER": [
+        {
+            "First Name": "CANDI",
+            "MI": "",
+            "Last Name": "SIEGEL",
+            "Relationship to You": "Spouse",
+            "Social Security Number": "980-51-4189",
+            "Gender": "Male",
+            "Date of Birth": "12/20/1950",
+            "Age": "73",
+            "Product Selection": "Vision"
+        }
+    ],
+    "DEPENDENT CHILD": [
+        {
+            "First Name": "TIMOTHY",
+            "MI": "",
+            "Last Name": "SIEGEL",
+            "Relationship to You": "Child",
+            "Social Security Number": "775-78-5749",
+            "Gender": "Male",
+            "Date of Birth": "05/27/1999",
+            "Age": "24",
+            "Product Selection": "Vision",
+            "Dependent Status if Age 26 or Older": ""
+        }
+    ]
+}

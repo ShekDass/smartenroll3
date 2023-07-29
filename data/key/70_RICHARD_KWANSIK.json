@@ -1,0 +1,58 @@
+{
+    "image_id": "70",
+    "insurancecompany": "HIGHMARK",
+    "formheader": "ENROLLMENT/WAIVER FORM",
+    "I EMPLOYEE/CONTRACT HOLDER INFORMATION": [
+        {
+            "Effective Date": "05/01/2023",
+            "Employer/Group Name": "UNITED PARCEL SERVICE",
+            "Group Number": "17381991",
+            "Payroll Location": " ",
+            "First Name": "RICHARD",
+            "MI": "A",
+            "Last Name": "KWANSIK",
+            "Social Security Number": "990-90-3464",
+            "Address": "272 38TH ST S",
+            "City": "BRIGANTINE",
+            "State": "NE",
+            "Zip": "08203",
+            "County": " ",
+            "Home/Cell Phone": "765-239-9513",
+            "Marital Status": "Divorced",
+            "Enrollment Status": "Active Employee",
+            "Full-Time Hire (or Rehire) Date": "12/14/2012",
+            "Hours Worked Per Week": " ",
+            "Gender": "Male",
+            "Date of Birth": "03/03/1948",
+            "Age": "75",
+            "Product Selection": "Medical"
+        }
+    ],
+    "SPOUSE/DOMESTIC PARTNER": [
+        {
+            "First Name": "JESSICA",
+            "MI": "",
+            "Last Name": "KWANSIK",
+            "Relationship to You": "Spouse",
+            "Social Security Number": "775-78-5749",
+            "Gender": "Female",
+            "Date of Birth": "05/30/1988",
+            "Age": "34",
+            "Product Selection": "Medical"
+        }
+    ],
+    "DEPENDENT CHILD": [
+        {
+            "First Name": "NADER",
+            "MI": "",
+            "Last Name": "KWANSIK",
+            "Relationship to You": "",
+            "Social Security Number": "214-91-3731",
+            "Gender": "Male",
+            "Date of Birth": "01/01/1997",
+            "Age": "26",
+            "Product Selection": "Medical",
+            "Dependent Status if Age 26 or Older": ""
+        }
+    ]
+}

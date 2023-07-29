@@ -1,0 +1,58 @@
+{
+    "image_id": "42",
+	"insurancecompany": "HIGHMARK",
+	"formheader": "ENROLLMENT/WAIVER FORM",
+    "I EMPLOYEE/CONTRACT HOLDER INFORMATION": [
+        {
+            "Effective Date": "06/09/2023",
+            "Employer/Group Name": "MCDONALD'S CORPORATION",
+            "Group Number": "32081881",
+            "Payroll Location": " ",
+            "First Name": "JEANNE",
+            "MI": " ",
+            "Last Name": "D'ARC",
+            "Social Security Number": "980-51-4189",
+            "Address": "2900 W OKLAHOMA AVE",
+            "City": "MILWAUKEE",
+            "State": "IN",
+            "Zip": "53215",
+            "County": " ",
+            "Home/Cell Phone": "765-239-9696",
+            "Marital Status": "Divorced",
+            "Enrollment Status": "Active Employee",
+            "Full-Time Hire (or Rehire) Date": "08/02/2012",
+            "Hours Worked Per Week": "60",
+            "Gender": "Female",
+            "Date of Birth": "05/17/1975",
+            "Age": "48",
+            "Product Selection": "Medical"
+        }
+    ],
+    "SPOUSE/DOMESTIC PARTNER": [
+        {
+            "First Name": "",
+            "MI": "",
+            "Last Name": "",
+            "Relationship to You": "",
+            "Social Security Number": "",
+            "Gender": "",
+            "Date of Birth": "",
+            "Age": "",
+            "Product Selection": ""
+        }
+    ],
+    "DEPENDENT CHILD": [
+        {
+            "First Name": "TONY",
+            "MI": "M",
+            "Last Name": "STEIN",
+            "Relationship to You": "Adopted",
+            "Social Security Number": "980-51-4189",
+            "Gender": "Male",
+            "Date of Birth": "11/13/1994",
+            "Age": "29",
+            "Product Selection": "Medical",
+            "Dependent Status if Age 26 or Older": ""
+        }
+    ]
+}

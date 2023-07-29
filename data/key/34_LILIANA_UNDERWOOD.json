@@ -1,0 +1,58 @@
+{
+    "image_id": "34",
+	"insurancecompany": "HIGHMARK",
+	"formheader": "ENROLLMENT/WAIVER FORM",
+    "I EMPLOYEE/CONTRACT HOLDER INFORMATION": [
+        {
+            "Effective Date": "06/07/2023",
+            "Employer/Group Name": "STARBUCKS",
+            "Group Number": "47289191",
+            "Payroll Location": " ",
+            "First Name": "LILIANA",
+            "MI": "B",
+            "Last Name": "UNDERWOOD",
+            "Social Security Number": "114-91-3731",
+            "Address": "1309 SEASPRAY LN",
+            "City": "SANIBEL",
+            "State": "CO",
+            "Zip": "33957",
+            "County": " ",
+            "Home/Cell Phone": "765-239-9688",
+            "Marital Status": "Single/Widowed",
+            "Enrollment Status": "Active Employee",
+            "Full-Time Hire (or Rehire) Date": "01/22/2015",
+            "Hours Worked Per Week": " ",
+            "Gender": "Female",
+            "Date of Birth": "06/30/1973",
+            "Age": "50",
+            "Product Selection": "Dental"
+        }
+    ],
+    "SPOUSE/DOMESTIC PARTNER": [
+        {
+            "First Name": "",
+            "MI": "",
+            "Last Name": "",
+            "Relationship to You": "",
+            "Social Security Number": "",
+            "Gender": "",
+            "Date of Birth": "",
+            "Age": "",
+            "Product Selection": ""
+        }
+    ],
+    "DEPENDENT CHILD": [
+        {
+            "First Name": "",
+            "MI": "",
+            "Last Name": "",
+            "Relationship to You": "",
+            "Social Security Number": "",
+            "Gender": "",
+            "Date of Birth": "",
+            "Age": "",
+            "Product Selection": "",
+            "Dependent Status if Age 26 or Older": ""
+        }
+    ]
+}

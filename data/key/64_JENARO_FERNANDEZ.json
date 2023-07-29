@@ -1,0 +1,58 @@
+{
+    "image_id": "64",
+    "insurancecompany": "HIGHMARK",
+    "formheader": "ENROLLMENT/WAIVER FORM",
+    "I EMPLOYEE/CONTRACT HOLDER INFORMATION": [
+        {
+            "Effective Date": "05/01/2023",
+            "Employer/Group Name": "WALMART",
+            "Group Number": "28108199",
+            "Payroll Location": "2810-2023",
+            "First Name": "JENARO",
+            "MI": "U",
+            "Last Name": "FERNANDEZ",
+            "Social Security Number": "980-51-4189",
+            "Address": "1401 LANGHAM TER",
+            "City": "LAKE MARY",
+            "State": "MA",
+            "Zip": "32746",
+            "County": " ",
+            "Home/Cell Phone": "765-239-9507",
+            "Marital Status": "Divorced",
+            "Enrollment Status": "Rehired Employee",
+            "Full-Time Hire (or Rehire) Date": "05/27/2007",
+            "Hours Worked Per Week": " ",
+            "Gender": "Male",
+            "Date of Birth": "04/02/1946",
+            "Age": "77",
+            "Product Selection": "Dental"
+        }
+    ],
+    "SPOUSE/DOMESTIC PARTNER": [
+        {
+            "First Name": "WENDY",
+            "MI": " ",
+            "Last Name": "FERNANDEZ",
+            "Relationship to You": "Spouse",
+            "Social Security Number": "457-30-6881",
+            "Gender": "Female",
+            "Date of Birth": " ",
+            "Age": " ",
+            "Product Selection": "Dental"
+        }
+    ],
+    "DEPENDENT CHILD": [
+        {
+            "First Name": "GRANT",
+            "MI": "",
+            "Last Name": "FERNANDEZ",
+            "Relationship to You": "Child",
+            "Social Security Number": "879-07-1461",
+            "Gender": "Male",
+            "Date of Birth": "01/01/1998",
+            "Age": "25",
+            "Product Selection": "Dental",
+            "Dependent Status if Age 26 or Older": ""
+        }
+    ]
+}

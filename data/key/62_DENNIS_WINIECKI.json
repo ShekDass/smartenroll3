@@ -1,0 +1,58 @@
+{
+    "image_id": "62",
+    "insurancecompany": "HIGHMARK",
+    "formheader": "ENROLLMENT/WAIVER FORM",
+    "I EMPLOYEE/CONTRACT HOLDER INFORMATION": [
+        {
+            "Effective Date": "05/01/2023",
+            "Employer/Group Name": "FEDEX",
+            "Group Number": "32492082",
+            "Payroll Location": " ",
+            "First Name": "DENNIS",
+            "MI": "S",
+            "Last Name": "WINIECKI",
+            "Social Security Number": "457-30-6881",
+            "Address": "99 BLUE HERON CITY",
+            "City": "EAST AMHERST",
+            "State": "ME",
+            "Zip": "14051",
+            "County": " ",
+            "Home/Cell Phone": "765-239-9505",
+            "Marital Status": "Single/Widowed",
+            "Enrollment Status": "Rehired Employee",
+            "Full-Time Hire (or Rehire) Date": "02/16/2015",
+            "Hours Worked Per Week": " ",
+            "Gender": "Male",
+            "Date of Birth": "11/26/1949",
+            "Age": "74",
+            "Product Selection": "Medical"
+        }
+    ],
+    "SPOUSE/DOMESTIC PARTNER": [
+        {
+            "First Name": "",
+            "MI": "",
+            "Last Name": "",
+            "Relationship to You": "",
+            "Social Security Number": "",
+            "Gender": "",
+            "Date of Birth": "",
+            "Age": "",
+            "Product Selection": ""
+        }
+    ],
+    "DEPENDENT CHILD": [
+        {
+            "First Name": "",
+            "MI": "",
+            "Last Name": "",
+            "Relationship to You": "",
+            "Social Security Number": "",
+            "Gender": "",
+            "Date of Birth": "",
+            "Age": "",
+            "Product Selection": "",
+            "Dependent Status if Age 26 or Older": ""
+        }
+    ]
+}

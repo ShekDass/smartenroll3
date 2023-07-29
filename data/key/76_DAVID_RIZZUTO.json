@@ -1,0 +1,58 @@
+{
+    "image_id": "76",
+    "insurancecompany": "HIGHMARK",
+    "formheader": "ENROLLMENT/WAIVER FORM",
+    "I EMPLOYEE/CONTRACT HOLDER INFORMATION": [
+        {
+            "Effective Date": "05/01/2023",
+            "Employer/Group Name": "UK NATIONAL HEALTH SERVICE",
+            "Group Number": "16183919",
+            "Payroll Location": " ",
+            "First Name": "DAVID",
+            "MI": "G",
+            "Last Name": "RIZZUTO",
+            "Social Security Number": "114-91-3731",
+            "Address": "732 N 3RD ST",
+            "City": "LEESBURG",
+            "State": "NC",
+            "Zip": "34748",
+            "County": " ",
+            "Home/Cell Phone": "765-239-9519",
+            "Marital Status": "Divorced",
+            "Enrollment Status": "Active Employee",
+            "Full-Time Hire (or Rehire) Date": "12/06/1999",
+            "Hours Worked Per Week": " ",
+            "Gender": "Male",
+            "Date of Birth": "12/11/1955",
+            "Age": "68",
+            "Product Selection": "Dental"
+        }
+    ],
+    "SPOUSE/DOMESTIC PARTNER": [
+        {
+            "First Name": "JACKIE",
+            "MI": "",
+            "Last Name": "RIZZUTO",
+            "Relationship to You": "Spouse",
+            "Social Security Number": "980-51-4189",
+            "Gender": "Female",
+            "Date of Birth": "07/25/1960",
+            "Age": "60",
+            "Product Selection": "Dental"
+        }
+    ],
+    "DEPENDENT CHILD": [
+        {
+            "First Name": "KATHLEEN",
+            "MI": "",
+            "Last Name": "RIZZUTO",
+            "Relationship to You": "Child",
+            "Social Security Number": "757-78-5749",
+            "Gender": "Female",
+            "Date of Birth": "09/18/1995",
+            "Age": "28",
+            "Product Selection": "Dental",
+            "Dependent Status if Age 26 or Older": ""
+        }
+    ]
+}

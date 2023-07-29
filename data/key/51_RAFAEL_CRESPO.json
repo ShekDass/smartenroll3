@@ -1,0 +1,58 @@
+{
+    "image_id": "51",
+    "insurancecompany": "HIGHMARK",
+    "formheader": "ENROLLMENT/WAIVER FORM",
+    "I EMPLOYEE/CONTRACT HOLDER INFORMATION": [
+        {
+            "Effective Date": "05/01/2023",
+            "Employer/Group Name": "HOME DEPOT",
+            "Group Number": "32333819",
+            "Payroll Location": "3233-2023",
+            "First Name": "RAFAEL",
+            "MI": "H",
+            "Last Name": "CRESPO",
+            "Social Security Number": "457-30-6881",
+            "Address": "549 GREEN SPRINGS PL",
+            "City": "WEST PALM BEACH",
+            "State": "FL",
+            "Zip": "33401",
+            "County": "",
+            "Home/Cell Phone": "765-239-9494",
+            "Marital Status": "Married",
+            "Enrollment Status": "Active Employee",
+            "Full-Time Hire (or Rehire) Date": "12/19/2019",
+            "Hours Worked Per Week": "40",
+            "Gender": "Male",
+            "Date of Birth": "11/07/1975",
+            "Age": "48",
+            "Product Selection": "Medical"
+        }
+    ],
+    "SPOUSE/DOMESTIC PARTNER": [
+        {
+            "First Name": "REBECCA",
+            "MI": "H",
+            "Last Name": "CRESPO",
+            "Relationship to You": "Spouse",
+            "Social Security Number": "214-91-3731",
+            "Gender": "Female",
+            "Date of Birth": "07/18/1957",
+            "Age": "66",
+            "Product Selection": "Medical"
+        }
+    ],
+    "DEPENDENT CHILD": [
+        {
+            "First Name": "",
+            "MI": "",
+            "Last Name": "",
+            "Relationship to You": "",
+            "Social Security Number": "",
+            "Gender": "",
+            "Date of Birth": "",
+            "Age": "",
+            "Product Selection": "",
+            "Dependent Status if Age 26 or Older": ""
+        }
+    ]
+}

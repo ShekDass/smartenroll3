@@ -1,0 +1,58 @@
+{
+    "image_id": "74",
+    "insurancecompany": "HIGHMARK",
+    "formheader": "ENROLLMENT/WAIVER FORM",
+    "I EMPLOYEE/CONTRACT HOLDER INFORMATION": [
+        {
+            "Effective Date": "05/01/2023",
+            "Employer/Group Name": "HOME DEPOT",
+            "Group Number": "32333819",
+            "Payroll Location": "3233-2023",
+            "First Name": "EDWARD",
+            "MI": "E",
+            "Last Name": "BRAM",
+            "Social Security Number": "980-51-4189",
+            "Address": "2233 NESCONSET HWY",
+            "City": "LAKE GROVE",
+            "State": "NM",
+            "Zip": "11755",
+            "County": " ",
+            "Home/Cell Phone": "765-239-9517",
+            "Marital Status": "Single/Widowed",
+            "Enrollment Status": "Active Employee",
+            "Full-Time Hire (or Rehire) Date": "06/17/2007",
+            "Hours Worked Per Week": " ",
+            "Gender": "Male",
+            "Date of Birth": "01/01/1943",
+            "Age": "80",
+            "Product Selection": "Medical"
+        }
+    ],
+    "SPOUSE/DOMESTIC PARTNER": [
+        {
+            "First Name": "",
+            "MI": "",
+            "Last Name": "",
+            "Relationship to You": "",
+            "Social Security Number": "",
+            "Gender": "",
+            "Date of Birth": "",
+            "Age": "",
+            "Product Selection": ""
+        }
+    ],
+    "DEPENDENT CHILD": [
+        {
+            "First Name": "",
+            "MI": "",
+            "Last Name": "",
+            "Relationship to You": "",
+            "Social Security Number": "",
+            "Gender": "",
+            "Date of Birth": "",
+            "Age": "",
+            "Product Selection": "",
+            "Dependent Status if Age 26 or Older": ""
+        }
+    ]
+}

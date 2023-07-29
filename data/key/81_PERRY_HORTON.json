@@ -1,0 +1,58 @@
+{
+    "image_id": "81",
+    "insurancecompany": "HIGHMARK",
+    "formheader": "ENROLLMENT/WAIVER FORM",
+    "I EMPLOYEE/CONTRACT HOLDER INFORMATION": [
+        {
+            "Effective Date": "05/01/2023",
+            "Employer/Group Name": "UNITED PARCEL SERVICE",
+            "Group Number": "17381991",
+            "Payroll Location": " ",
+            "First Name": "PERRY",
+            "MI": "L",
+            "Last Name": "HORTON",
+            "Social Security Number": "840-13-1844",
+            "Address": "4705 LAWRENCEVILLE HWY NW",
+            "City": "LILBURN",
+            "State": "PA",
+            "Zip": "30047",
+            "County": " ",
+            "Home/Cell Phone": "765-239-9524",
+            "Marital Status": "Married",
+            "Enrollment Status": "COBRA Continuant",
+            "Full-Time Hire (or Rehire) Date": "11/05/2000",
+            "Hours Worked Per Week": " ",
+            "Gender": "Male",
+            "Date of Birth": "11/14/1943",
+            "Age": "80",
+            "Product Selection": "Dental"
+        }
+    ],
+    "SPOUSE/DOMESTIC PARTNER": [
+        {
+            "First Name": "SUSAN",
+            "MI": "",
+            "Last Name": "HORTON",
+            "Relationship to You": "Spouse",
+            "Social Security Number": "114-91-3731",
+            "Gender": "Female",
+            "Date of Birth": "11/14/1947",
+            "Age": "76",
+            "Product Selection": "Dental"
+        }
+    ],
+    "DEPENDENT CHILD": [
+        {
+            "First Name": "",
+            "MI": "",
+            "Last Name": "",
+            "Relationship to You": "",
+            "Social Security Number": "",
+            "Gender": "",
+            "Date of Birth": "",
+            "Age": "",
+            "Product Selection": "",
+            "Dependent Status if Age 26 or Older": ""
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "image_id": "29",
+	"insurancecompany": "HIGHMARK",
+	"formheader": "ENROLLMENT/WAIVER FORM",
+    "I EMPLOYEE/CONTRACT HOLDER INFORMATION": [
+        {
+            "Effective Date": "06/04/2023",
+            "Employer/Group Name": "WALMART",
+            "Group Number": "28108199",
+            "Payroll Location": "2810-2023",
+            "First Name": "CARLO",
+            "MI": "E",
+            "Last Name": "BROGNA",
+            "Social Security Number": "840-13-1844",
+            "Address": "7842 PRESERVE DR",
+            "City": "WEST PALM BEACH",
+            "State": "AL",
+            "Zip": "33412",
+            "County": " ",
+            "Home/Cell Phone": "765-239-9683",
+            "Marital Status": "Married",
+            "Enrollment Status": "Rehired Employee",
+            "Full-Time Hire (or Rehire) Date": "06/27/2009",
+            "Hours Worked Per Week": "30",
+            "Gender": "Male",
+            "Date of Birth": "01/13/1954",
+            "Age": "69",
+            "Product Selection": "Dental"
+        }
+    ],
+    "SPOUSE/DOMESTIC PARTNER": [
+        {
+            "First Name": "SHERIA",
+            "MI": "",
+            "Last Name": "BROGNA",
+            "Relationship to You": "Spouse",
+            "Social Security Number": "879-07-1461",
+            "Gender": "Female",
+            "Date of Birth": "05/15/1992",
+            "Age": "31",
+            "Product Selection": "Dental"
+        }
+    ],
+    "DEPENDENT CHILD": [
+        {
+            "First Name": "",
+            "MI": "",
+            "Last Name": "",
+            "Relationship to You": "",
+            "Social Security Number": "",
+            "Gender": "",
+            "Date of Birth": "",
+            "Age": "",
+            "Product Selection": "",
+            "Dependent Status if Age 26 or Older": ""
+        }
+    ]
+}

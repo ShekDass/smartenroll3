@@ -1,0 +1,58 @@
+{
+    "image_id": "48",
+    "insurancecompany": "HIGHMARK",
+    "formheader": "ENROLLMENT/WAIVER FORM",
+    "I EMPLOYEE/CONTRACT HOLDER INFORMATION": [
+        {
+            "Effective Date": "05/01/2023",
+            "Employer/Group Name": "KROGERS",
+            "Group Number": "28208182",
+            "Payroll Location": " ",
+            "First Name": "JANET",
+            "MI": "E",
+            "Last Name": "MANOUKIAN",
+            "Social Security Number": "214-91-3731",
+            "Address": "2500 HOSPITAL DR",
+            "City": "MOUNTAIN VIEW",
+            "State": "CA",
+            "Zip": "94040",
+            "County": " ",
+            "Home/Cell Phone": "765-239-9491",
+            "Marital Status": "Married",
+            "Enrollment Status": "Rehired Employee",
+            "Full-Time Hire (or Rehire) Date": "11/29/2019",
+            "Hours Worked Per Week": " ",
+            "Gender": "Female",
+            "Date of Birth": "01/02/1956",
+            "Age": "67",
+            "Product Selection": "Vision"
+        }
+    ],
+    "SPOUSE/DOMESTIC PARTNER": [
+        {
+            "First Name": "JOYSON",
+            "MI": " ",
+            "Last Name": "MANOUKIAN",
+            "Relationship to You": "Spouse",
+            "Social Security Number": "114-91-3731",
+            "Gender": "Male",
+            "Date of Birth": "06/01/1953",
+            "Age": "70",
+            "Product Selection": "Vision"
+        }
+    ],
+    "DEPENDENT CHILD": [
+        {
+            "First Name": "PAOLA",
+            "MI": "W",
+            "Last Name": "MANOUKIAN",
+            "Relationship to You": "Child",
+            "Social Security Number": "190-90-3464",
+            "Gender": "Female",
+            "Date of Birth": "03/27/1999",
+            "Age": "24",
+            "Product Selection": "Vision",
+            "Dependent Status if Age 26 or Older": ""
+        }
+    ]
+}

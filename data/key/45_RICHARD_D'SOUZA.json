@@ -1,0 +1,58 @@
+{
+    "image_id": "45",
+    "insurancecompany": "HIGHMARK",
+    "formheader": "ENROLLMENT/WAIVER FORM",
+    "I EMPLOYEE/CONTRACT HOLDER INFORMATION": [
+        {
+            "Effective Date": "05/01/2023",
+            "Employer/Group Name": "BERKSHIRE HATHAWAY",
+            "Group Number": "37297192",
+            "Payroll Location": "3729-2023",
+            "First Name": "RICHARD",
+            "MI": "B",
+            "Last Name": "D'SOUZA",
+            "Social Security Number": "114-91-3731",
+            "Address": "1 BLUE HILL PLZ",
+            "City": "PEARL RIVER",
+            "State": "AK",
+            "Zip": "10965",
+            "County": " ",
+            "Home/Cell Phone": "765-239-9488",
+            "Marital Status": "Married",
+            "Enrollment Status": "Active Employee",
+            "Full-Time Hire (or Rehire) Date": "03/01/2011",
+            "Hours Worked Per Week": "45",
+            "Gender": "Male",
+            "Date of Birth": "12/28/1963",
+            "Age": "60",
+            "Product Selection": "Vision"
+        }
+    ],
+    "SPOUSE/DOMESTIC PARTNER": [
+        {
+            "First Name": "BRENDA",
+            "MI": "C",
+            "Last Name": "D'SOUZA",
+            "Relationship to You": "Spouse",
+            "Social Security Number": "879-07-1461",
+            "Gender": "Female",
+            "Date of Birth": "03/27/1965",
+            "Age": "58",
+            "Product Selection": "Vision"
+        }
+    ],
+    "DEPENDENT CHILD": [
+        {
+            "First Name": "JOY",
+            "MI": "M",
+            "Last Name": "D'SOUZA",
+            "Relationship to You": "Child",
+            "Social Security Number": "190-90-3464",
+            "Gender": "Female",
+            "Date of Birth": "01/01/1999",
+            "Age": "24",
+            "Product Selection": "Vision",
+            "Dependent Status if Age 26 or Older": ""
+        }
+    ]
+}

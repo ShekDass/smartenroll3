@@ -1,0 +1,58 @@
+{
+    "image_id": "61",
+    "insurancecompany": "HIGHMARK",
+    "formheader": "ENROLLMENT/WAIVER FORM",
+    "I EMPLOYEE/CONTRACT HOLDER INFORMATION": [
+        {
+            "Effective Date": "05/01/2023",
+            "Employer/Group Name": "TARGET",
+            "Group Number": "48208181",
+            "Payroll Location": " ",
+            "First Name": "WILLIAM",
+            "MI": "R",
+            "Last Name": "O'CONNOR",
+            "Social Security Number": "840-13-1844",
+            "Address": "15 REDONDO CT",
+            "City": "LA ALAMEDA",
+            "State": "LA",
+            "Zip": "93035",
+            "County": " ",
+            "Home/Cell Phone": "765-239-9504",
+            "Marital Status": "Divorced",
+            "Enrollment Status": "Rehired Employee",
+            "Full-Time Hire (or Rehire) Date": "01/12/2020",
+            "Hours Worked Per Week": " ",
+            "Gender": "Male",
+            "Date of Birth": "07/09/1957",
+            "Age": "66",
+            "Product Selection": "Dental"
+        }
+    ],
+    "SPOUSE/DOMESTIC PARTNER": [
+        {
+            "First Name": "MAGDALENA",
+            "MI": "I",
+            "Last Name": "O'CONNOR",
+            "Relationship to You": "Spouse",
+            "Social Security Number": "214-91-3731",
+            "Gender": "Female",
+            "Date of Birth": "01/01/1965",
+            "Age": "58",
+            "Product Selection": "Dental"
+        }
+    ],
+    "DEPENDENT CHILD": [
+        {
+            "First Name": "JEANNE",
+            "MI": "K",
+            "Last Name": "O'CONNOR",
+            "Relationship to You": "Child",
+            "Social Security Number": "990-90-3464",
+            "Gender": "Female",
+            "Date of Birth": "03/30/2000",
+            "Age": "23",
+            "Product Selection": "Dental",
+            "Dependent Status if Age 26 or Older": ""
+        }
+    ]
+}

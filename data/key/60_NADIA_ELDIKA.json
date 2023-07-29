@@ -1,0 +1,58 @@
+{
+    "image_id": "60",
+    "insurancecompany": "HIGHMARK",
+    "formheader": "ENROLLMENT/WAIVER FORM",
+    "I EMPLOYEE/CONTRACT HOLDER INFORMATION": [
+        {
+            "Effective Date": "05/01/2023",
+            "Employer/Group Name": "KROGERS",
+            "Group Number": "28208182",
+            "Payroll Location": " ",
+            "First Name": "NADIA",
+            "MI": "Q",
+            "Last Name": "ELDIKA",
+            "Social Security Number": "990-90-3464",
+            "Address": "2600 N WOODLAWN BLVD",
+            "City": "WICHITA",
+            "State": "KY",
+            "Zip": "40006",
+            "County": " ",
+            "Home/Cell Phone": "765-239-9503",
+            "Marital Status": "Married",
+            "Enrollment Status": "Active Employee",
+            "Full-Time Hire (or Rehire) Date": "06/05/2019",
+            "Hours Worked Per Week": "20",
+            "Gender": "Female",
+            "Date of Birth": "06/08/1972",
+            "Age": "51",
+            "Product Selection": "Medical"
+        }
+    ],
+    "SPOUSE/DOMESTIC PARTNER": [
+        {
+            "First Name": "DANIEL",
+            "MI": "F",
+            "Last Name": "ELDIKA",
+            "Relationship to You": "Spouse",
+            "Social Security Number": "775-78-5749",
+            "Gender": "Male",
+            "Date of Birth": "05/05/1973",
+            "Age": "50",
+            "Product Selection": "Medical"
+        }
+    ],
+    "DEPENDENT CHILD": [
+        {
+            "First Name": "MICHAEL",
+            "MI": "F",
+            "Last Name": "ELDIKA",
+            "Relationship to You": "Child",
+            "Social Security Number": "214-91-3731",
+            "Gender": "Male",
+            "Date of Birth": "02/22/1997",
+            "Age": "26",
+            "Product Selection": "Medical",
+            "Dependent Status if Age 26 or Older": ""
+        }
+    ]
+}

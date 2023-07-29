@@ -1,0 +1,58 @@
+{
+    "image_id": "82",
+    "insurancecompany": "HIGHMARK",
+    "formheader": "ENROLLMENT/WAIVER FORM",
+    "I EMPLOYEE/CONTRACT HOLDER INFORMATION": [
+        {
+            "Effective Date": "05/01/2023",
+            "Employer/Group Name": "KROGERS",
+            "Group Number": "28028182",
+            "Payroll Location": " ",
+            "First Name": "JAMES",
+            "MI": "M",
+            "Last Name": "KRISTOBAC",
+            "Social Security Number": "457-30-6881",
+            "Address": "457-3 DAVEY HILL RD",
+            "City": "TIDIOUTE",
+            "State": "RI",
+            "Zip": "16351",
+            "County": " ",
+            "Home/Cell Phone": "765-239-9525",
+            "Marital Status": "Divorced",
+            "Enrollment Status": "Active Employee",
+            "Full-Time Hire (or Rehire) Date": "10/23/2001",
+            "Hours Worked Per Week": " ",
+            "Gender": "Male",
+            "Date of Birth": "10/11/1955",
+            "Age": "68",
+            "Product Selection": "Vision"
+        }
+    ],
+    "SPOUSE/DOMESTIC PARTNER": [
+        {
+            "First Name": "MARILYN",
+            "MI": "",
+            "Last Name": "KRISTOBAC",
+            "Relationship to You": "Spouse",
+            "Social Security Number": "190-90-3464",
+            "Gender": "Female",
+            "Date of Birth": "04/11/1957",
+            "Age": "66",
+            "Product Selection": "Vision"
+        }
+    ],
+    "DEPENDENT CHILD": [
+        {
+            "First Name": "RICHARD",
+            "MI": "",
+            "Last Name": "KRISTOBAC",
+            "Relationship to You": "Adopted",
+            "Social Security Number": "840-13-1844",
+            "Gender": "Male",
+            "Date of Birth": "06/23/2005",
+            "Age": "18",
+            "Product Selection": "Vision",
+            "Dependent Status if Age 26 or Older": ""
+        }
+    ]
+}

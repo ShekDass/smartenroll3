@@ -1,0 +1,58 @@
+{
+    "image_id": "66",
+    "insurancecompany": "HIGHMARK",
+    "formheader": "ENROLLMENT/WAIVER FORM",
+    "I EMPLOYEE/CONTRACT HOLDER INFORMATION": [
+        {
+            "Effective Date": "05/01/2023",
+            "Employer/Group Name": "MCDONALD'S CORPORATION",
+            "Group Number": "32081881",
+            "Payroll Location": "",
+            "First Name": "DONNA",
+            "MI": "W",
+            "Last Name": "MILKES",
+            "Social Security Number": "114-91-3731",
+            "Address": "233 E SHORE RD",
+            "City": "GREAT NECK",
+            "State": "MN",
+            "Zip": "11023",
+            "County": "",
+            "Home/Cell Phone": "765-239-9509",
+            "Marital Status": "Married",
+            "Enrollment Status": "COBRA Continuant",
+            "Full-Time Hire (or Rehire) Date": "01/01/2017",
+            "Hours Worked Per Week": "40",
+            "Gender": "Female",
+            "Date of Birth": "05/09/1968",
+            "Age": "55",
+            "Product Selection": "Dental"
+        }
+    ],
+    "SPOUSE/DOMESTIC PARTNER": [
+        {
+            "First Name": "RAYMOND",
+            "MI": "",
+            "Last Name": "MILKES",
+            "Relationship to You": "Spouse",
+            "Social Security Number": "980-51-4189",
+            "Gender": "Male",
+            "Date of Birth": "01/04/1968",
+            "Age": "55",
+            "Product Selection": "Dental"
+        }
+    ],
+    "DEPENDENT CHILD": [
+        {
+            "First Name": "SAM",
+            "MI": "",
+            "Last Name": "MILKES",
+            "Relationship to You": "Child",
+            "Social Security Number": "757-78-5749",
+            "Gender": "Male",
+            "Date of Birth": "01/01/1998",
+            "Age": "25",
+            "Product Selection": "Dental",
+            "Dependent Status if Age 26 or Older": ""
+        }
+    ]
+}

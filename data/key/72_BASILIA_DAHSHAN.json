@@ -1,0 +1,58 @@
+{
+    "image_id": "72",
+    "insurancecompany": "HIGHMARK",
+    "formheader": "ENROLLMENT/WAIVER FORM",
+    "I EMPLOYEE/CONTRACT HOLDER INFORMATION": [
+        {
+            "Effective Date": "05/01/2023",
+            "Employer/Group Name": "TARGET",
+            "Group Number": "48208181",
+            "Payroll Location": " ",
+            "First Name": "BASILIA",
+            "MI": "C",
+            "Last Name": "DAHSHAN",
+            "Social Security Number": "457-30-6881",
+            "Address": "6401 N PLACITA ALTA REPOSA",
+            "City": "TUCSON",
+            "State": "NH",
+            "Zip": "85750",
+            "County": " ",
+            "Home/Cell Phone": "765-239-9515",
+            "Marital Status": "Married",
+            "Enrollment Status": "Rehired Employee",
+            "Full-Time Hire (or Rehire) Date": "07/07/2020",
+            "Hours Worked Per Week": " ",
+            "Gender": "Female",
+            "Date of Birth": "09/09/1994",
+            "Age": "29",
+            "Product Selection": "Dental"
+        }
+    ],
+    "SPOUSE/DOMESTIC PARTNER": [
+        {
+            "First Name": "HARRY",
+            "MI": "",
+            "Last Name": "DAHSHAN",
+            "Relationship to You": "Spouse",
+            "Social Security Number": "990-90-3464",
+            "Gender": "Male",
+            "Date of Birth": "05/01/1992",
+            "Age": "31",
+            "Product Selection": "Dental"
+        }
+    ],
+    "DEPENDENT CHILD": [
+        {
+            "First Name": "DENNIS",
+            "MI": "",
+            "Last Name": "DAHSHAN",
+            "Relationship to You": "",
+            "Social Security Number": "840-13-1844",
+            "Gender": "Male",
+            "Date of Birth": "01/01/2000",
+            "Age": "23",
+            "Product Selection": "Dental",
+            "Dependent Status if Age 26 or Older": ""
+        }
+    ]
+}

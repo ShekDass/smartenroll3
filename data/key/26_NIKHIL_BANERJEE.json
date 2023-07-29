@@ -1,0 +1,58 @@
+{
+    "image_id": "26",
+	"insurancecompany": "HIGHMARK",
+	"formheader": "ENROLLMENT/WAIVER FORM",
+    "I EMPLOYEE/CONTRACT HOLDER INFORMATION": [
+        {
+            "Effective Date": "06/03/2023",
+            "Employer/Group Name": "TARGET",
+            "Group Number": "48208181",
+            "Payroll Location": " ",
+            "First Name": "NIKHIL",
+            "MI": "B",
+            "Last Name": "BANERJEE",
+            "Social Security Number": "775-78-5749",
+            "Address": "11525 OLDE CABIN RD",
+            "City": "SAINT LOUIS",
+            "State": "WA",
+            "Zip": "63141",
+            "County": " ",
+            "Home/Cell Phone": "765-239-9680",
+            "Marital Status": "Married",
+            "Enrollment Status": "COBRA Continuant",
+            "Full-Time Hire (or Rehire) Date": "09/03/2019",
+            "Hours Worked Per Week": " ",
+            "Gender": "Male",
+            "Date of Birth": "12/18/1980",
+            "Age": "43",
+            "Product Selection": "Vision"
+        }
+    ],
+    "SPOUSE/DOMESTIC PARTNER": [
+        {
+            "First Name": "ANNA",
+            "MI": "",
+            "Last Name": "BANERJEE",
+            "Relationship to You": "Spouse",
+            "Social Security Number": "990-90-3464",
+            "Gender": "Female",
+            "Date of Birth": "03/13/1958",
+            "Age": "65",
+            "Product Selection": "Vision"
+        }
+    ],
+    "DEPENDENT CHILD": [
+        {
+            "First Name": "FREDERICK",
+            "MI": "",
+            "Last Name": "BANERJEE",
+            "Relationship to You": "Step-child",
+            "Social Security Number": "775-78-5745",
+            "Gender": "Male",
+            "Date of Birth": "04/22/2000",
+            "Age": "23",
+            "Product Selection": "Vision",
+            "Dependent Status if Age 26 or Older": ""
+        }
+    ]
+}

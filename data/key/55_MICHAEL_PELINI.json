@@ -1,0 +1,58 @@
+{
+    "image_id": "55",
+    "insurancecompany": "HIGHMARK",
+    "formheader": "ENROLLMENT/WAIVER FORM",
+    "I EMPLOYEE/CONTRACT HOLDER INFORMATION": [
+        {
+            "Effective Date": "05/01/2023",
+            "Employer/Group Name": "WALMART",
+            "Group Number": "28108199",
+            "Payroll Location": "2810-2023",
+            "First Name": "MICHAEL",
+            "MI": "L",
+            "Last Name": "PELINI",
+            "Social Security Number": "757-78-5749",
+            "Address": "1000 E WASHINGTON ST",
+            "City": "MEDINA",
+            "State": "OH",
+            "Zip": "44256",
+            "County": " ",
+            "Home/Cell Phone": "765-239-9498",
+            "Marital Status": "Divorced",
+            "Enrollment Status": "Active Employee",
+            "Full-Time Hire (or Rehire) Date": "10/01/2020",
+            "Hours Worked Per Week": " ",
+            "Gender": "Male",
+            "Date of Birth": "12/01/1981",
+            "Age": "42",
+            "Product Selection": "Dental"
+        }
+    ],
+    "SPOUSE/DOMESTIC PARTNER": [
+        {
+            "First Name": "KATHLEEN",
+            "MI": "G",
+            "Last Name": "PELINI",
+            "Relationship to You": "Spouse",
+            "Social Security Number": "879-07-1461",
+            "Gender": "Female",
+            "Date of Birth": "09/18/1981",
+            "Age": "42",
+            "Product Selection": "Dental"
+        }
+    ],
+    "DEPENDENT CHILD": [
+        {
+            "First Name": "RAFAEL",
+            "MI": "",
+            "Last Name": "PELINI",
+            "Relationship to You": "Child",
+            "Social Security Number": "980-51-4189",
+            "Gender": "Male",
+            "Date of Birth": "05/20/2006",
+            "Age": "17",
+            "Product Selection": "Dental",
+            "Dependent Status if Age 26 or Older": ""
+        }
+    ]
+}

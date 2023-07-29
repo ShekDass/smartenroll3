@@ -1,0 +1,58 @@
+{
+    "image_id": "30",
+	"insurancecompany": "HIGHMARK",
+	"formheader": "ENROLLMENT/WAIVER FORM",
+    "I EMPLOYEE/CONTRACT HOLDER INFORMATION": [
+        {
+            "Effective Date": "06/04/2023",
+            "Employer/Group Name": "UK NATIONAL HEALTH SERVICE",
+            "Group Number": "16183919",
+            "Payroll Location": " ",
+            "First Name": "ROCHELLE",
+            "MI": " ",
+            "Last Name": "CARLSON",
+            "Social Security Number": "457-30-6881",
+            "Address": "1430 HARPER ST",
+            "City": "AUGUSTA",
+            "State": "AK",
+            "Zip": "30901",
+            "County": " ",
+            "Home/Cell Phone": "765-239-9684",
+            "Marital Status": "Divorced",
+            "Enrollment Status": "Rehired Employee",
+            "Full-Time Hire (or Rehire) Date": "11/23/2005",
+            "Hours Worked Per Week": " ",
+            "Gender": "Female",
+            "Date of Birth": "02/19/1970",
+            "Age": "53",
+            "Product Selection": "Vision"
+        }
+    ],
+    "SPOUSE/DOMESTIC PARTNER": [
+        {
+            "First Name": "ARSHAD",
+            "MI": "F",
+            "Last Name": "CARLSON",
+            "Relationship to You": "Spouse",
+            "Social Security Number": "980-51-4189",
+            "Gender": "Male",
+            "Date of Birth": "01/08/1970",
+            "Age": "53",
+            "Product Selection": "Vision"
+        }
+    ],
+    "DEPENDENT CHILD": [
+        {
+            "First Name": "WENDY",
+            "MI": "",
+            "Last Name": "CARLSON",
+            "Relationship to You": "Child",
+            "Social Security Number": "457-30-6815",
+            "Gender": "Female",
+            "Date of Birth": "05/05/1997",
+            "Age": "26",
+            "Product Selection": "Vision",
+            "Dependent Status if Age 26 or Older": ""
+        }
+    ]
+}

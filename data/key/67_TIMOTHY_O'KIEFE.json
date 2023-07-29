@@ -1,0 +1,58 @@
+{
+    "image_id": "67",
+    "insurancecompany": "HIGHMARK",
+    "formheader": "ENROLLMENT/WAIVER FORM",
+    "I EMPLOYEE/CONTRACT HOLDER INFORMATION": [
+        {
+            "Effective Date": "05/01/2023",
+            "Employer/Group Name": "UNITED HEALTH GROUP",
+            "Group Number": "1245729",
+            "Payroll Location": "0124-2023",
+            "First Name": "TIMOTHY",
+            "MI": "X",
+            "Last Name": "O'KIEFE",
+            "Social Security Number": "190-90-3464",
+            "Address": "9947 MOLLY PITCHER HWY",
+            "City": "SHIPPENSBURG",
+            "State": "MS",
+            "Zip": "17257",
+            "County": " ",
+            "Home/Cell Phone": "765-239-9510",
+            "Marital Status": "Divorced",
+            "Enrollment Status": "Active Employee",
+            "Full-Time Hire (or Rehire) Date": "03/08/2011",
+            "Hours Worked Per Week": "45",
+            "Gender": "Male",
+            "Date of Birth": "05/27/1954",
+            "Age": "69",
+            "Product Selection": "Dental"
+        }
+    ],
+    "SPOUSE/DOMESTIC PARTNER": [
+        {
+            "First Name": "LAURA",
+            "MI": "",
+            "Last Name": "O'KIEFE",
+            "Relationship to You": "Spouse",
+            "Social Security Number": "757-78-5749",
+            "Gender": "Female",
+            "Date of Birth": " ",
+            "Age": " ",
+            "Product Selection": "Dental"
+        }
+    ],
+    "DEPENDENT CHILD": [
+        {
+            "First Name": "TAMAR",
+            "MI": "",
+            "Last Name": "O'KIEFE",
+            "Relationship to You": "Child",
+            "Social Security Number": "114-91-3731",
+            "Gender": "Female",
+            "Date of Birth": "01/01/1998",
+            "Age": "25",
+            "Product Selection": "Dental",
+            "Dependent Status if Age 26 or Older": ""
+        }
+    ]
+}

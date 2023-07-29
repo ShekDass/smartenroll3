@@ -1,0 +1,58 @@
+{
+    "image_id": "28",
+	"insurancecompany": "HIGHMARK",
+	"formheader": "ENROLLMENT/WAIVER FORM",
+    "I EMPLOYEE/CONTRACT HOLDER INFORMATION": [
+        {
+            "Effective Date": "06/04/2023",
+            "Employer/Group Name": "HOME DEPOT",
+            "Group Number": "32333819",
+            "Payroll Location": "3233-2023",
+            "First Name": "GEORGE",
+            "MI": "D",
+            "Last Name": "SAAD",
+            "Social Security Number": "990-90-3464",
+            "Address": "20526 PLYMOUTH RD",
+            "City": "DETROIT",
+            "State": "WI",
+            "Zip": "48228",
+            "County": " ",
+            "Home/Cell Phone": "765-239-9682",
+            "Marital Status": "Single/Widowed",
+            "Enrollment Status": "Active Employee",
+            "Full-Time Hire (or Rehire) Date": "04/28/2007",
+            "Hours Worked Per Week": " ",
+            "Gender": "Male",
+            "Date of Birth": "11/14/1957",
+            "Age": "66",
+            "Product Selection": "Medical"
+        }
+    ],
+    "SPOUSE/DOMESTIC PARTNER": [
+        {
+            "First Name": "",
+            "MI": "",
+            "Last Name": "",
+            "Relationship to You": "",
+            "Social Security Number": "",
+            "Gender": "",
+            "Date of Birth": "",
+            "Age": "",
+            "Product Selection": ""
+        }
+    ],
+    "DEPENDENT CHILD": [
+        {
+            "First Name": "",
+            "MI": "",
+            "Last Name": "",
+            "Relationship to You": "",
+            "Social Security Number": "",
+            "Gender": "",
+            "Date of Birth": "",
+            "Age": "",
+            "Product Selection": "",
+            "Dependent Status if Age 26 or Older": ""
+        }
+    ]
+}

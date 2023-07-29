@@ -1,0 +1,58 @@
+{
+    "image_id": "20",
+	"insurancecompany": "HIGHMARK",
+	"formheader": "ENROLLMENT/WAIVER FORM",
+    "I EMPLOYEE/CONTRACT HOLDER INFORMATION": [
+        {
+            "Effective Date": "05/03/2023",
+            "Employer/Group Name": "MCDONALD'S CORPORATION",
+            "Group Number": "32081881",
+            "Payroll Location": "",
+            "First Name": "WILLIAM",
+            "MI": "D",
+            "Last Name": "NICHOLSON",
+            "Social Security Number": "457-30-6881",
+            "Address": "5000 LEGACY DR",
+            "City": "PLANO",
+            "State": "SD",
+            "Zip": "75024",
+            "County": " ",
+            "Home/Cell Phone": "765-239-9674",
+            "Marital Status": "Married",
+            "Enrollment Status": "Active Employee",
+            "Full-Time Hire (or Rehire) Date": "09/20/2013",
+            "Hours Worked Per Week": " ",
+            "Gender": "Male",
+            "Date of Birth": "11/19/1970",
+            "Age": "53",
+            "Product Selection": "Dental"
+        }
+    ],
+    "SPOUSE/DOMESTIC PARTNER": [
+        {
+            "First Name": "LORI",
+            "MI": "",
+            "Last Name": "NICHOLSON",
+            "Relationship to You": "Spouse",
+            "Social Security Number": "980-51-4189",
+            "Gender": "Female",
+            "Date of Birth": "06/11/1990",
+            "Age": "33",
+            "Product Selection": "Dental"
+        }
+    ],
+    "DEPENDENT CHILD": [
+        {
+            "First Name": "JONATHAN",
+            "MI": "J",
+            "Last Name": "NICHOLSON",
+            "Relationship to You": "Child",
+            "Social Security Number": "457-30-6885",
+            "Gender": "Male",
+            "Date of Birth": "12/18/2011",
+            "Age": "12",
+            "Product Selection": "Dental",
+            "Dependent Status if Age 26 or Older": ""
+        }
+    ]
+}
